@@ -8,7 +8,7 @@
  * - at.toinnovate.saml.nameIdFormat: The nameID attribute of the SAML request being generated. Default: emailAddress
  */
 
-package org.epo.portal.saml;
+package at.toinnovate.portal.saml;
 
 import java.rmi.server.UID;
 import java.text.SimpleDateFormat;
